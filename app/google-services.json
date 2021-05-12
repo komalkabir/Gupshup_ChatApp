@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "480237601344",
+    "firebase_url": "https://gupshup1-4ed1b.firebaseio.com",
+    "project_id": "gupshup1-4ed1b",
+    "storage_bucket": "gupshup1-4ed1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480237601344:android:98274da36d3294326e15a5",
+        "android_client_info": {
+          "package_name": "com.example.gupshup_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480237601344-71j9jfc9tkmbtsblp1j3mhlb2ca35oa4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gupshup_1",
+            "certificate_hash": "952fea6055569a0c68c9f8e9ce75921a4ac88e6e"
+          }
+        },
+        {
+          "client_id": "480237601344-hgjkas4305rrs1h8bhofd51ol5tlcp92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gupshup_1",
+            "certificate_hash": "37ae6c64835bcc53d459e77b3bbf4e53ebb8e774"
+          }
+        },
+        {
+          "client_id": "480237601344-8vo9oqm5qrceoa67fe4vgjhj43l0hi48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxIVhjDCvKmS5QJp7GuURf06o5DnAJiog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480237601344-8vo9oqm5qrceoa67fe4vgjhj43l0hi48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
